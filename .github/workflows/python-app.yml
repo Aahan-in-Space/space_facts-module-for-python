@@ -42,4 +42,4 @@ jobs:
       run: |
         pip install pytest
         pip install pytest-cov
-        pytest tests.py --doctest-modules --junitxml=junit/test-results.xml --cov=com --cov-report=xml --cov-report=html
+        pytest src/space_facts_2010person/tests.py --doctest-modules --junitxml=junit/test-results.xml --cov=com --cov-report=xml --cov-report=html
