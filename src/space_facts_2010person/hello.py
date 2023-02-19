@@ -1,6 +1,6 @@
 # This program is not to be altered with or redistributed unofficially, under the MIT License © Aahan in Space 2023 
 
-------------------------------------------------------------------------------------------------------------------------------------------
+#------------------------------------------------------------------------------------------------------------------------------------------
 # This program is soley for the purposes of providing users version details among other essential details
 
 print("Hello user welcome to space_facts, this module has been created to bring important astronomical information into your Python code.")
