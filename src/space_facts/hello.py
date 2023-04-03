@@ -10,3 +10,4 @@ def hello():
     print("Your version of space_facts for Python 3 is v1.")
     print("Support and help can be found at the documentation here: https://github.com/Aahan-in-Space/space_facts-module-for-python3/wiki")
     print("Wish to contribute? Thanks! Start here: https://github.com/Aahan-in-Space/space_facts-module-for-python3/blob/main/README.md")
+    print("Don't forget, you can visit the website at https://aahaninspace.tk/space_facts")
